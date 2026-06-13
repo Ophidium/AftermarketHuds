@@ -18,18 +18,13 @@ var modSettings = {}
 
 var ADD_EQUIPMENT_ITEMS = []
 
-var verbose = false
+var verbose = true
 
 func _init(modLoader = ModLoader):
-	# Must load DLC early for it to properly function.
-	# Modify Settings.gd first so we can load config and DLC
-
+	l("Initialising", MOD_NAME)
 	loadDLC()
-
-	#var self_path = self.get_script().get_path()
-	#var self_directory = self_path.split(self_path.split("/")[self_path.split("/").size() - 1])[0]
-	#var self_check = load(self_directory + "mod_checker_script.tscn").instance()
-	#add_child(self_check)
+	
+	replaceScene("hud/Hud.tscn")
 
 	l("Initialised!", MOD_NAME)
 
@@ -83,4 +78,4 @@ func loadDLC():
 func l(msg:String, title:String = MOD_NAME, version:String = str(MOD_VERSION_MAJOR) + "." + str(MOD_VERSION_MINOR) + "." + str(MOD_VERSION_BUGFIX)):
 	if not MOD_VERSION_METADATA == "":
 		version = version + "-" + MOD_VERSION_METADATA
-		Debug.l("[%s V%s]: %s" % [title, version, msg])
+	Debug.l("[%s V%s]: %s" % [title, version, msg])

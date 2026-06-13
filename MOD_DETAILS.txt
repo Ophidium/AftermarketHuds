@@ -2,8 +2,8 @@
 ;MOD_NAME|Ringa's More Huds
 ;MOD_ICON|https://raw.githubusercontent.com/JCalebBR/MoreHuds/refs/heads/main/icon.png
 ;AUTHOR|jcaleb
-;MOD_ZIP_NAME|MoreHuds.zip
+;MOD_ZIP_NAME|RingasMoreHuds.zip
 
-[center][b]More Huds[/b][/center]
+[center][b]Ringa's More Huds[/b][/center]
 
 Adds more huds, that's about it really..
