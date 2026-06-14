@@ -1,10 +1,10 @@
 extends Node
 
-const RINGA_CERF_HUD = {
-	"system":"SYSTEM_HUD_CERF_RINGA",
-	"manual":"SYSTEM_HUD_CERF_RINGA_MANUAL",
+const HUD_CERF_GRUN = {
+	"system":"SYSTEM_HUD_CERF_GRUN",
+	"manual":"SYSTEM_HUD_CERF_GRUN_MANUAL",
 	"test_protocol":"hud",
 	"slot_type":"HUD",
 	"equipment_type":"COMPUTER_HUD",
-	"price":1
+	"price":18500
 }

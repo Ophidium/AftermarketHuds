@@ -8,29 +8,29 @@ extends Node
 const TRANSLATIONS = {
 	"master_locale": "en",
 	"en": {
-		"RINGA_MOREHUDS_DESCRIPTION": {
+		"GRUN_AFTERMARKETHUDS_DESCRIPTION": {
 			"string": "Adds a new HUD",
 			"version_hash": 1423514061
 		},
-		"RINGA_MOREHUDS_BRIEF": {
+		"GRUN_AFTERMARKETHUDS_BRIEF": {
 			"string": "Adds a new HUD",
 			"version_hash": 1423514061
 		},
-		"SYSTEM_HUD_CERF_RINGA": {
-			"string": "RINGA HUD",
-			"version_hash": 3209050871
+		"SYSTEM_HUD_CERF_GRUN": {
+			"string": "MAD Cernunnos II (GRUN ver.)",
+			"version_hash": 323908652
 		},
-		"SYSTEM_HUD_CERF_RINGA_MANUAL": {
-			"string": "RINGA HUD",
-			"version_hash": 3209050871
+		"SYSTEM_HUD_CERF_GRUN_DESC": {
+			"string": "After a recent wave of 'company resource relocation efforts', a disgruntled employee leaked the source code of the newest offering from Machine Astro-Dynamiques to the general public. This aftermarket update for the HUD of the heavy recovery tug MAD Cernunnos II was made by a collaboration of various anonymous hackers, collectively known as the 'Ganymede Runners'.",
+			"version_hash": 1979287714
 		},
-		"SYSTEM_HUD_CERF_RINGA_SPECS": {
-			"string": "RINGA HUD",
-			"version_hash": 3209050871
+			"SYSTEM_HUD_CERF_GRUN_SPECS": {
+			"string": "The Ganymede Runners were here",
+			"version_hash": 1979287714
 		},
-		"SYSTEM_HUD_CERF_RINGA_DESC": {
-			"string": "RINGA HUD",
-			"version_hash": 3209050871
+		"SYSTEM_HUD_CERF_GRUN_MANUAL": {
+			"string": "Changes the heads up display of the ship.\nUse dedicated HUD for best results.",
+			"version_hash": 1979287714
 		}
 	}
 }

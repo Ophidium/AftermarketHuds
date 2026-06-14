@@ -1,9 +1,9 @@
 [mod_information]
 
-name="Ringa's More Huds"
-id="jcaleb.RingasMoreHuds"
-description="RINGAS_MOREHUDS_DESCRIPTION"
-brief="RINGAS_MOREHUDS_BRIEF"
+name="Ganymede Runners' Aftermarket Huds"
+id="jcaleb.GRunAftermarketHuds"
+description="GRUN_AFTERMARKETHUDS_DESCRIPTION"
+brief="GRUN_AFTERMARKETHUDS_BRIEF"
 author="jcaleb"
 credits=["my adhd"]
 

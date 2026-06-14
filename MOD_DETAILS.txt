@@ -1,9 +1,9 @@
-;MOD_ID|jcaleb.MoreHuds
-;MOD_NAME|Ringa's More Huds
-;MOD_ICON|https://raw.githubusercontent.com/JCalebBR/MoreHuds/refs/heads/main/icon.png
+;MOD_ID|jcaleb.GRunAftermarketHuds
+;MOD_NAME|Ganymede Runners' Aftermarket Huds
+;MOD_ICON|https://raw.githubusercontent.com/JCalebBR/MoreHuds/refs/heads/main/logo.png
 ;AUTHOR|jcaleb
-;MOD_ZIP_NAME|RingasMoreHuds.zip
+;MOD_ZIP_NAME|GRunAftermarketHuds.zip
 
-[center][b]Ringa's More Huds[/b][/center]
+[center][b]Ganymede Runners' Aftermarket Huds[/b][/center]
 
-Adds more huds, that's about it really..
+Adds more huds, that's about it really.
