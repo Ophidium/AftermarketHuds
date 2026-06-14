@@ -4,7 +4,7 @@
 
 [node name="Hud" instance=ExtResource( 1 )]
 
-[node name="SYSTEM_HUD_CERF_GRUN" parent="Huds" index="11" instance_placeholder="res://MoreHuds/hud/Display-CERF-GRUN.tscn"]
+[node name="SYSTEM_HUD_CERF_GRUN" parent="Huds" index="11" instance_placeholder="res://AftermarketHuds/hud/Display-CERF-GRUN.tscn"]
 visible = false
 __meta__ = {
 "_editor_description_": ""
