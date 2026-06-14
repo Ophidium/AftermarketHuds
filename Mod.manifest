@@ -5,7 +5,7 @@ id="jcaleb.GRunAftermarketHuds"
 description="GRUN_AFTERMARKETHUDS_DESCRIPTION"
 brief="GRUN_AFTERMARKETHUDS_BRIEF"
 author="jcaleb"
-credits=["my adhd"]
+credits=["me, myself and my adhd", "hev, for HevLib and some initial help <3"]
 
 [version]
 
