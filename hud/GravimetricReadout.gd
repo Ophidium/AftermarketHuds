@@ -6,5 +6,5 @@ func configChanged(k = null, v = null):
 	.configChanged(k, v)
 	if not visible and ship:
 		var installed = ship.getConfig(slot)
-		visible = installed == system
+		visible = installed == new_system
 		set_physics_process(visible)

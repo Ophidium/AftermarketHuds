@@ -6,4 +6,4 @@ func configChanged(k = null, v = null):
 	.configChanged(k, v)
 	if not visible and ship:
 		var installed = ship.getConfig(slot)
-		visible = (system == installed)
+		visible = (new_system == installed)
