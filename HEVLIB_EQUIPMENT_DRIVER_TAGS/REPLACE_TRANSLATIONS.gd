@@ -60,14 +60,14 @@ const TRANSLATIONS = {
 		},
 		"SYSTEM_AUTOPILOT_LIDAR_SPECS":
 		{
-			"string": "eveloper: Electro Ride Systems \nCapabilities: Adaptive Angular Thrust \nFly-By-Wire \nRotational Thrust Computation \nAntipodal Reaction Limiter \nLIDAR highlight\nLIDAR overlay",
+			"string": "Developer: Electro Ride Systems \nCapabilities: Adaptive Angular Thrust \nFly-By-Wire \nRotational Thrust Computation \nAntipodal Reaction Limiter \nLIDAR highlight\nLIDAR overlay",
 			"version_hash": 1234567890
 		},
 		"SYSTEM_AUTOPILOT_LIDAR_MANUAL":
 		{
-			"string": "Highlights nearby ore and ships. \nDisplays LIDAR circle around your ship. \nDisplays firing solutions. n\ARL: Cancels out opposite thrusters, conserving fuel. \nAAT: Observes cargo mass shifts and thruster damage to compute the minimum thrust required for manoeuvre. \nRTC: Dynamically computes the most performant thrusters to perform any manoeuvre. \nFBW: Routes all manual thruster input through the autopilot. \nCan use gimbaled main drives efficiently.",
+			"string": "Highlights nearby ore and ships. \nDisplays LIDAR circle around your ship. \nARL: Cancels out opposite thrusters, conserving fuel. \nAAT: Observes cargo mass shifts and thruster damage to compute the minimum thrust required for manoeuvre. \nRTC: Dynamically computes the most performant thrusters to perform any manoeuvre. \nFBW: Routes all manual thruster input through the autopilot. \nCan use gimbaled main drives efficiently.",
 			"version_hash": 1234567890
-		}
+		},
 
 	},
 	"uk_UA": {
