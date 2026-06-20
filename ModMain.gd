@@ -29,7 +29,9 @@ func _init(modLoader = ModLoader):
 	installScriptExtension("hud/ShowWhenSystemInstalled.gd")
 	installScriptExtension("hud/components/GravimetricScale.gd")
 	installScriptExtension("hud/GravimetricReadout.gd")
-	
+	installScriptExtension("ships/ship-ctrl.gd")
+	installScriptExtension("hud/AutopilotOverlay.gd")
+
 	l("Initialised!", MOD_NAME)
 
 func _ready():
