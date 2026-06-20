@@ -47,7 +47,28 @@ const TRANSLATIONS = {
 		"SYSTEM_RD_GR_SPECTROMETER_GRAVIMETRIC_MANUAL": {
 			"string": "Provides a top-down display of your ship.\nEnhances LIDAR screen with gravimetric data.\nIdentifies ore in large formations you targeted or are hovering above.\nSpeeds up geologist identification of selected ore.",
 			"version_hash": 3284102073
+		},
+		"SYSTEM_AUTOPILOT_LIDAR":
+		{
+			"string": "LIDER-40 Autopilot",
+			"version_hash": 1234567890
+		},
+		"SYSTEM_AUTOPILOT_LIDAR_DESC":
+		{
+			"string": "A modified variant of the ER-42 Autopilot, nicknamed the LIDER Autopilot. It's trajectory prediction has been replaced for other LIDAR functions for a more clearer display of information.",
+			"version_hash": 1234567890
+		},
+		"SYSTEM_AUTOPILOT_LIDAR_SPECS":
+		{
+			"string": "eveloper: Electro Ride Systems \nCapabilities: Adaptive Angular Thrust \nFly-By-Wire \nRotational Thrust Computation \nAntipodal Reaction Limiter \nLIDAR highlight\nLIDAR overlay",
+			"version_hash": 1234567890
+		},
+		"SYSTEM_AUTOPILOT_LIDAR_MANUAL":
+		{
+			"string": "Highlights nearby ore and ships. \nDisplays LIDAR circle around your ship. \nDisplays firing solutions. n\ARL: Cancels out opposite thrusters, conserving fuel. \nAAT: Observes cargo mass shifts and thruster damage to compute the minimum thrust required for manoeuvre. \nRTC: Dynamically computes the most performant thrusters to perform any manoeuvre. \nFBW: Routes all manual thruster input through the autopilot. \nCan use gimbaled main drives efficiently.",
+			"version_hash": 1234567890
 		}
+
 	},
 	"uk_UA": {
 		"GRUN_AFTERMARKETHUDS_DESCRIPTION": {
